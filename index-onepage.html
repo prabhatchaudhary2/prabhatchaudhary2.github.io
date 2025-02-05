@@ -98,39 +98,14 @@
                   </div>
 
                   <div class="navbar-collapse collapse clearfix">
-                    <ul class="navigation clearfix">
-                      <li class="dropdown">
-                        <a href="#">Home</a>
-                        <ul>
-                          <li><a href="index.html">MultiPage</a></li>
-                          <li><a href="index-onepage.html">OnePage</a></li>
-                        </ul>
-                      </li>
-                      <li><a href="about.html">About Us</a></li>
-                      <li class="dropdown">
-                        <a href="#">Project</a>
-                        <ul>
-                          <li><a href="projects.html">Projects</a></li>
-                          <li>
-                            <a href="project-details.html">Project Details</a>
-                          </li>
-                        </ul>
-                      </li>
-                      <li class="dropdown">
-                        <a href="#">pages</a>
-                        <ul>
-                          <li><a href="schedule.html">schedule</a></li>
-                          <li><a href="404.html">404 Error</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown">
-                        <a href="#">blog</a>
-                        <ul>
-                          <li><a href="blog.html">blog</a></li>
-                          <li><a href="blog-details.html">blog details</a></li>
-                        </ul>
-                      </li>
-                      <li><a href="contact.html">Contact us</a></li>
+                    <ul class="navigation onepage clearfix">
+                      <li><a href="#home">Home</a></li>
+                      <li><a href="#about">about</a></li>
+                      <li><a href="#timeline">timeline</a></li>
+                      <li><a href="#services">services</a></li>
+                      <li><a href="#features">features</a></li>
+                      <li><a href="#projects">project</a></li>
+                      <li><a href="#reviews">reviews</a></li>
                     </ul>
                   </div>
                 </nav>
@@ -151,7 +126,8 @@
 
       <!-- Hero Section Start -->
       <section
-        class="hero-area py-250 rpt-150 corner-shapes-wrap"
+        id="home"
+        class="hero-area py-250 rpt-150 rpb-150 corner-shapes-wrap"
         style="background-image: url(assets/images/background/hero-bg.jpg)"
       >
         <div class="corner-shapes"></div>
@@ -159,21 +135,20 @@
           <div class="row align-items-center justify-content-between">
             <div class="col-xl-7 col-lg-8">
               <div class="hero-content rmb-65 wow fadeInUp delay-0-2s">
-                <h1>A unique fusion of convenience and luxury</h1>
-                <a
-                  href="about.html"
-                  class="theme-btn style-two wow fadeInUp delay-0-3s"
-                  >Explore Dax</a
-                >
+                <h1>
+                  A unique fusion of convenience and
+                  <span id="about"></span>luxury
+                </h1>
+                <a href="about.html" class="theme-btn style-two">Explore Dax</a>
                 <a
                   href="https://my.matterport.com/show/?m=Cgmxg6gtDVb"
-                  class="theme-btn wow fadeInUp delay-0-4s"
+                  class="theme-btn"
                   ><i class="far fa-book-open"></i> Take a look at VR</a
                 >
               </div>
             </div>
             <div class="col-lg-3">
-              <div class="hero-video-btn text-lg-end wow fadeInUp delay-0-6s">
+              <div class="hero-video-btn text-lg-end wow fadeInUp delay-0-4s">
                 <a
                   href="https://elcon.kwst.net/site/video/3.mp4"
                   class="mfp-iframe video-play"
@@ -328,7 +303,7 @@
       <!-- Video Area end -->
 
       <!-- Timeline Area start -->
-      <section class="timeline-area py-120 rpb-100">
+      <section id="timeline" class="timeline-area py-120 rpb-100">
         <div class="container">
           <div class="row justify-content-between pb-25">
             <div class="col-lg-12">
@@ -648,7 +623,7 @@
       <!-- Image Slide Show Area end -->
 
       <!-- Benefits Area start -->
-      <section class="benefits-area pt-120 pb-105">
+      <section id="services" class="benefits-area pt-120 pb-105">
         <div class="container">
           <div class="row gap-40">
             <div class="col-xl-6 col-lg-8">
@@ -745,7 +720,7 @@
               </div>
             </div>
             <div class="col-12">
-              <a href="#" class="more-btn mt-5"
+              <a id="features" href="#" class="more-btn mt-5"
                 >More Benefits <i class="fal fa-angle-down"></i
               ></a>
             </div>
@@ -890,7 +865,7 @@
       <!-- Features Area end -->
 
       <!-- Developer Area start -->
-      <section class="developer-area rel z-1 py-120 rpb-100">
+      <section id="projects" class="developer-area rel z-1 py-120 rpb-100">
         <div class="container">
           <div class="row justify-content-between pb-25">
             <div class="col-lg-12">
@@ -1002,7 +977,7 @@
       <!-- Developer Area end -->
 
       <!-- Reviews Area start -->
-      <section class="reviews-area pt-115 rpt-0">
+      <section id="reviews" class="reviews-area pt-115 rpt-0">
         <div class="container">
           <div class="row rel z-1 justify-content-center">
             <div class="col-xl-7 col-lg-8">
