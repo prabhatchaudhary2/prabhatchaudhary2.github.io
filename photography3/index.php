@@ -23,7 +23,7 @@
 
 	<!-- Google font (font-family: 'IBM Plex Sans', sans-serif;) -->
 	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,600,700" rel="stylesheet">
-	
+
 	<!-- Plugins -->
 	<link rel="stylesheet" href="src/assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="src/assets/css/plugins.css">
@@ -90,12 +90,12 @@
 		<div id="fullpage">
 
 			<div class="section" data-anchor="first-section">
-		
+
 				<!-- Hero Area -->
 				<div class="hero-area">
-					
+
 					<div class="hero-slider hero-silder-active">
-		
+
 						<!-- Hero Area Single Slide -->
 						<div class="hero-single-slide bg-image-1" data-black-overlay="2">
 							<div class="container">
@@ -109,7 +109,7 @@
 							</div>
 						</div>
 						<!--// Hero Area Single Slide -->
-		
+
 						<!-- Hero Area Single Slide -->
 						<div class="hero-single-slide bg-image-2" data-black-overlay="2">
 							<div class="container">
@@ -123,7 +123,7 @@
 							</div>
 						</div>
 						<!--// Hero Area Single Slide -->
-		
+
 						<!-- Hero Area Single Slide -->
 						<div class="hero-single-slide bg-image-3" data-black-overlay="2">
 							<div class="container">
@@ -137,22 +137,22 @@
 							</div>
 						</div>
 						<!--// Hero Area Single Slide -->
-		
+
 					</div>
-		
+
 					<div class="hero-area-outer">
 						<div class="container">
               <div class="hero-pagination"></div>
 						</div>
 					</div>
-		
+
 				</div>
 				<!--// Hero Area -->
 
 			</div>
 
 			<div class="section" data-anchor="second-section">
-				
+
 				<section id="about-area" class="cr-section about-area section-padding-xlg bg-image-4" data-white-overlay="9.5">
 					<div class="container">
 						<div class="row align-items-start align-items-xl-center">
@@ -178,7 +178,7 @@
 			</div>
 
 			<div class="section" data-anchor="third-section">
-				
+
 				<section id="portfolio-area" class="cr-section portfolio-gallery-area section-padding-xlg">
 					<div class="container">
 
@@ -304,7 +304,7 @@
 							<div class="col-12">
 								<div class="testimonial text-center">
 									<span class="testimonial-image"><img src="https://placehold.co/70x70" alt="author image"></span>
-									<h5>LUISE HANERIKA</h5>						
+									<h5>LUISE HANERIKA</h5>
 									<h6>Fashion Designer</h6>
 									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<span class="testimonial-border-topleft"></span>
@@ -319,7 +319,7 @@
 							<div class="col-12">
 								<div class="testimonial text-center">
 									<span class="testimonial-image"><img src="https://placehold.co/70x70" alt="author image"></span>
-									<h5>LUISE HANERIKA</h5>						
+									<h5>LUISE HANERIKA</h5>
 									<h6>Fashion Designer</h6>
 									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<span class="testimonial-border-topleft"></span>
@@ -334,7 +334,7 @@
 							<div class="col-12">
 								<div class="testimonial text-center">
 									<span class="testimonial-image"><img src="https://placehold.co/70x70" alt="author image"></span>
-									<h5>LUISE HANERIKA</h5>						
+									<h5>LUISE HANERIKA</h5>
 									<h6>Fashion Designer</h6>
 									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<span class="testimonial-border-topleft"></span>
@@ -349,7 +349,7 @@
 							<div class="col-12">
 								<div class="testimonial text-center">
 									<span class="testimonial-image"><img src="https://placehold.co/70x70" alt="author image"></span>
-									<h5>LUISE HANERIKA</h5>						
+									<h5>LUISE HANERIKA</h5>
 									<h6>Fashion Designer</h6>
 									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<span class="testimonial-border-topleft"></span>
@@ -364,7 +364,7 @@
 							<div class="col-12">
 								<div class="testimonial text-center">
 									<span class="testimonial-image"><img src="https://placehold.co/70x70" alt="author image"></span>
-									<h5>LUISE HANERIKA</h5>						
+									<h5>LUISE HANERIKA</h5>
 									<h6>Fashion Designer</h6>
 									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<span class="testimonial-border-topleft"></span>
@@ -397,7 +397,7 @@
 										<div class="single-info">
 											<h5>PHONE NUMBER</h5>
 											<p>
-                        <a href="#">+88012659845</a> 
+                        <a href="#">+88012659845</a>
                         <a href="#">+88012659864</a>
                       </p>
 										</div>
@@ -458,7 +458,7 @@
 									<li><a href="#">Twitter</a></li>
 									<li><a href="#">Google+ </a></li>
 									<li><a href="#">Linkedin </a></li>
-									<li><a href="#">Behance </a></li>                                               
+									<li><a href="#">Behance </a></li>
 								</ul>
 							</div>
 							<div class="col-lg-6">

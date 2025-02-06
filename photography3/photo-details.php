@@ -23,7 +23,7 @@
 
 	<!-- Google font (font-family: 'IBM Plex Sans', sans-serif;) -->
 	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,600,700" rel="stylesheet">
-	
+
 	<!-- Plugins -->
 	<link rel="stylesheet" href="src/assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="src/assets/css/plugins.css">
@@ -167,7 +167,7 @@
                         <li><a href="#">Twitter</a></li>
                         <li><a href="#">Google+ </a></li>
                         <li><a href="#">Linkedin </a></li>
-                        <li><a href="#">Behance </a></li>                                               
+                        <li><a href="#">Behance </a></li>
                     </ul>
                 </div>
                 <div class="col-lg-6">

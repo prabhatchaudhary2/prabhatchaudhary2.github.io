@@ -23,7 +23,7 @@
 
 	<!-- Google font (font-family: 'IBM Plex Sans', sans-serif;) -->
 	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,600,700" rel="stylesheet">
-	
+
 	<!-- Plugins -->
 	<link rel="stylesheet" href="src/assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="src/assets/css/plugins.css">
@@ -132,7 +132,7 @@
 					</div>
 
 					<div class="row portfolios-wrapper portfolios-zoom-button-holder">
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-graphic portfolio-filter-design">
 							<div class="portfolio">
@@ -147,7 +147,7 @@
 							</div>
 						</div>
 						<!--// Single Portfolio -->
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-graphic">
 							<div class="portfolio">
@@ -162,7 +162,7 @@
 							</div>
 						</div>
 						<!--// Single Portfolio -->
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-photoshop portfolio-filter-design">
 							<div class="portfolio">
@@ -177,7 +177,7 @@
 							</div>
 						</div>
 						<!--// Single Portfolio -->
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-graphic portfolio-filter-design">
 							<div class="portfolio">
@@ -192,7 +192,7 @@
 							</div>
 						</div>
 						<!--// Single Portfolio -->
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-photoshop">
 							<div class="portfolio">
@@ -207,7 +207,7 @@
 							</div>
 						</div>
 						<!--// Single Portfolio -->
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-photoshop portfolio-filter-design">
 							<div class="portfolio">
@@ -222,7 +222,7 @@
 							</div>
 						</div>
 						<!--// Single Portfolio -->
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-graphic">
 							<div class="portfolio">
@@ -237,7 +237,7 @@
 							</div>
 						</div>
 						<!--// Single Portfolio -->
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-design">
 							<div class="portfolio">
@@ -252,7 +252,7 @@
 							</div>
 						</div>
 						<!--// Single Portfolio -->
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-graphic portfolio-filter-design">
 							<div class="portfolio">
@@ -267,7 +267,7 @@
 							</div>
 						</div>
                         <!--// Single Portfolio -->
-		
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-graphic portfolio-filter-design">
 							<div class="portfolio">
@@ -282,7 +282,7 @@
 							</div>
 						</div>
                         <!--// Single Portfolio -->
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-graphic">
 							<div class="portfolio">
@@ -297,7 +297,7 @@
 							</div>
 						</div>
                         <!--// Single Portfolio -->
-						
+
 						<!-- Single Portfolio -->
 						<div class="col-lg-6 col-md-6 col-12 portfolio-item portfolio-filter-photoshop portfolio-filter-design">
 							<div class="portfolio">
@@ -340,7 +340,7 @@
                         <li><a href="#">Twitter</a></li>
                         <li><a href="#">Google+ </a></li>
                         <li><a href="#">Linkedin </a></li>
-                        <li><a href="#">Behance </a></li>                                               
+                        <li><a href="#">Behance </a></li>
                     </ul>
                 </div>
                 <div class="col-lg-6">
